@@ -1,0 +1,109 @@
+---
+title: "Rename T7.1 Short-rotation croplands"
+date: last-modified
+Type: "Rename"
+Nomination: 23 Jun 2025
+Decision: 9 Sep 2025
+Implementation: public consultation
+categories: 
+    - T7.1
+    - Rename
+    - Public consultation
+---
+
+:::{.callout-note}
+
+The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is *Annual croplands*. However, from an ecosystem functioning perspective perennial herbaceous croplands share characteristics with annual croplands and fit best in this ecosystem functional group. We thus note the potential alternative name Herbaceous croplands, reflecting an expansion in scope to include both annual and perennial herbaceous crops.
+
+***Revision summary***: Rename *T7.1 Short-rotation croplands* or *Herbaceous/non-woody croplands*
+
+***Origin***: Agricultural ecosystems WG (Driver & Botts 2025)
+
+***Justification***: Some intensive croplands are turned over on longer than annual cycles (e.g. biennial crops or in climates with interannually variable rainfall) but share many features with annual croplands
+
+***Current status***: Formal nomination, proposal prepared for GET-SC consideration. Recommendation from GET-SC: approve and send for public consultation.
+
+::: 
+
+## T7.1 [Short-rotation]{.mark} croplands
+
+***Ecosystem properties***:
+High-productivity croplands are maintained by intensive anthropogenic
+supplementation of nutrients, water, and artificial disturbance regimes
+(e.g. annual cultivation), translocation (e.g. sowing), and harvesting
+of short-lived plants. These systems are typically dominated by one or
+few shallow-rooted, short-lived, [typically non-woody]{.mark} plant
+species such as grains (mostly C3 grasses), vegetables, 'flowers',
+legumes, or fibre species harvested [destructively or renewed on cycles
+of less than one to a few year]{.mark}s by humans for commercial or
+subsistence production of food, materials, or ornamental displays.
+Disequilibrium community structure and composition is maintained by
+translocations and/or managed reproduction of target species and usually
+by periodic application of herbicides and pesticides and/or culling to
+exclude competitors, predators, herbivores, and/or pathogens. Thus,
+compared to antecedent 'natural' systems, croplands are structurally
+simple, have low functional, genetic, and taxonomic diversity and no
+local endemism. Subsistence croplands, including Swidden rotation
+systems, are typically more diverse than industrial croplands.
+Productivity is highly sensitive to variations in resource availability.
+Target biota are genetically manipulated by selective breeding or
+molecular engineering to promote rapid growth, efficient resource
+capture, enhanced resource allocation to production tissues, and
+tolerance to harsh environmental conditions, insect predators, and
+diseases. Typically, at least 40% of net primary productivity is
+appropriated by humans. Croplands may be rotated inter-annually with
+livestock pastures or fallow fields
+([T7.2](https://global-ecosystems.org/explore/groups/T7.2)) or may be
+integrated into mixed cropping-livestock systems. Target biota coexists
+with a cosmopolitan ruderal biota (e.g. weedy plants, mice, and
+starlings) that exploits production landscapes opportunistically through
+efficient dispersal, itinerant foraging, rapid establishment, high
+fecundity, and rapid population turnover. Native biota from adjoining
+non-anthropogenic systems may also interact with croplands. When
+actively managed systems are abandoned or managed less intensively,
+these non-target biota, especially non-woody plants, become dominant and
+may form a steady, self-maintaining state or a transitional phase to
+novel ecosystems.
+
+
+![Diagram Description automatically
+generated](./media/media/image2.png){width="3.9652777777777777in"
+height="2.707638888888889in"}
+
+![Wheat crop post-harvest, Crookston, Minnesota, USA. Credit: Andy Sacks / Getty Images](./media/media/image1.jpeg){width="3.5625in"
+height="2.2979166666666666in"}
+
+***Ecological drivers***: The high to
+moderate natural availability of water (from at least seasonally high
+rainfall) and nutrients (from fertile soils) is often supplemented by
+human inputs via irrigation, landscape drainage modifications (e.g.
+surface earthworks), and/or fertiliser application by humans.
+Intermittent flooding may occur where croplands replace palustrine
+wetlands. Temperatures are mild to warm, at least seasonally. These
+systems are typically associated with flat to moderate terrain
+accessible by machinery. Artificial disturbance regimes (e.g. annual
+ploughing) maintain soil turnover, aeration, nutrient release, and
+relatively low soil organic carbon content.
+
+
+***Distribution***: Tropical to temperate
+humid climatic zones or river flats in dry climates across south
+sub-Saharan and North Africa, Europe, Asia, southern Australia, Oceania,
+and the Americas.
+
+![](./media/media/image3.png){width="4.481944444444444in"
+height="2.1131944444444444in"}
+
+### References
+
+Leff B, Ramankutty N, Foley JA (2004) Geographic distribution of major
+crops across the world. *Global Biogeochemical Cycles* 18(1), GB1009.
+
+Ray DK., Foley JA (2013) Increasing global crop harvest frequency:
+recent trends and future directions. *Environmental Research Letters*
+8(4): 04404
+
+
+## Public consultation
+
+<iframe width="640px" height="480px" src="https://forms.office.com/r/jbLu4ywAg1?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

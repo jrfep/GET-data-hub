@@ -1,0 +1,21 @@
+---
+title: "Rename T7.2"
+date: last-modified
+Type: "Rename"
+Nomination: 23 Jun 2025
+Decision: pending
+Implementation: undecided
+Publication: undecided
+categories: 
+    - T7.2
+    - T7.1
+    - Rename
+    - Formal nomination
+---
+
+The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is *Sown pastures and fields*. However, fields occur in other ecosystem functional groups as well as this one (for example in T7.1). We thus note the potential alternative name Sown pastures, excluding specific mention of fields.
+
+
+## Current status
+
+Formal nomination, proposal prepared for GET-SC consideration

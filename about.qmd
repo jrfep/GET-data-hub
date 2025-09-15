@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+The Global Ecosystem Typology Data Hub currently operates from the UNSW Centre of Ecosystem Science. 
+

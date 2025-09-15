@@ -1,0 +1,1 @@
+pandoc -t markdown --extract-media=./media/ T7-1_consultationdraft_GET-SC_202500909.docx -o index.qmd

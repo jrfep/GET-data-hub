@@ -1,0 +1,30 @@
+---
+title: "Rename T4.4 Subhumid temperate woodlands"
+date: last-modified
+Type: "Rename"
+Nomination: 8 Sep 2025
+Decision: pending
+Implementation: undecided
+Publication: undecided
+categories: 
+    - T4.4
+    - T5.6
+    - Rename
+    - Formal nomination
+---
+
+## Revision summary
+
+Describe T5.6 Semi-arid woodlands	
+
+## Origin 
+
+Aust NEAP project
+
+## Justification
+
+Adjustment to accommodate T5.6
+
+## Current status
+
+Formal nomination, proposal prepared for GET-SC consideration

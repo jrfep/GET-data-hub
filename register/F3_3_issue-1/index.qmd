@@ -1,0 +1,96 @@
+---
+title: "Rename F3.3 Aquatic and semi-aquatic croplands"
+date: last-modified
+Type: "Rename"
+Nomination: 23 Jun 2025
+Decision: 9 Sep 2025
+Implementation: public consultation
+categories: 
+    - F3.3
+    - Rename
+    - Public consultation
+---
+
+
+:::{.callout-note}
+## Proposed revision
+
+The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is Rice paddies. However, the description of the ecosystem functional group accommodates a broader range of crops than just rice, and dry rice croplands fall within T7.1. We thus note the potential alternative name Aquatic and semi-aquatic croplands.
+
+
+***Revision summary***: Rename F3.3 Aquatic and semi-aquatic croplands 
+
+***Origin***: Agricultural ecosystems WG (Driver & Botts 2025)
+
+***Justification***: Accommodate aquatic crops other than rice
+
+***Current status***: Proposal considered by GET-SC on 8/9/2025 and approved  for public consultation on draft update
+
+::: 
+
+
+## F3.3 [Aquatic and semi-aquatic croplands]{.mark}
+
+![Rice paddies, Bali, Indonesia. Credit: Darren Robb / Getty Images
+](./media/media/image1.jpeg){width="4.163194444444445in"
+height="2.7756944444444445in"}
+
+***Ecosystem properties***: [These
+ecosystems]{.mark} are artificial wetlands with low horizontal and
+vertical heterogeneity fed by rain or irrigation water diverted from
+rivers. They are predominantly temporary wetlands, regularly filled and
+dried, although some are permanently inundated, functioning as
+simplified marshes. Allochthonous inputs come from water inflow but also
+include the introduction of [aquatic crops such as rice, lotus or
+tarot,]{.mark} other production organisms (e.g. fish and crustaceans),
+and fertilisers that promote [plant]{.mark} growth. Simplified trophic
+networks are sustained by seasonal, deterministic flooding and drying
+regimes and the agricultural management of harvest crops, weeds, and
+pests. Cultivated macrophytes dominate primary production, but other
+autotrophs [contribute]{.mark}, including archaea, cyanobacteria,
+phytoplankton, and benthic or epiphytic algae. During flooded periods,
+microbial changes produce anoxic soil conditions and emissions by
+methanogenic archaea. Opportunistic colonists include consumers such as
+zooplankton, insects, fish, frogs, and waterbirds, as well as other
+aquatic plants. Often they come from nearby natural wetlands or rivers
+and may breed within [these croplands]{.mark}. During dry phases,
+obligate aquatic organisms are confined to wet refugia [beyond the
+croplands]{.mark}. These species possess traits that promote tolerance
+to low water quality and predator avoidance. Others organisms, including
+many invertebrates and plants, have rapid life cycles and dormancy
+traits allowing persistence as eggs or seeds during dry phases.
+
+
+![Diagram Description automatically
+generated](./media/media/image2.png){width="4.0777777777777775in"
+height="2.9347222222222222in"}
+
+
+***Ecological drivers***: Engineering of
+levees and channels enables the retention of standing water a few
+centimetres above the soil surface and rapid drying at harvest time.
+This requires reliable water supply either through summer rains in the
+seasonal tropics or irrigation in warm-temperate or semi-arid climates.
+The water has high oxygen content and usually warm temperatures.
+Deterministic water regimes and shallow depths limit niche diversity and
+have major influences on the physical, chemical, and biological
+properties of soils, which contain high nutrient levels. [Aquatic
+croplands]{.mark} are often established on former floodplains but may
+also be created on terraced hillsides. Other human interventions include
+cultivation and harvest, aquaculture, and the addition of fertilisers,
+herbicides, and pesticides.
+
+***Distribution***: More than a million square kilometres, mostly in
+tropical and subtropical Southeast Asia, with small areas in Africa,
+Europe, South America, North America, Australia [and Pacific]{.mark}.
+
+![](./media/media/image3.png){width="4.853472222222222in"
+height="2.4916666666666667in"}
+
+### References:
+
+Fernando CJH (1993) Rice field ecology and fish culture---an overview.
+*Hydrobiologia* 259: 91-113.
+
+Liesack W, Schnell S, Revsbech NP (2000) Microbiology of flooded rice
+paddies. *FEMS Microbiology Reviews* 24: 625-645

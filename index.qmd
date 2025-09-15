@@ -1,0 +1,8 @@
+---
+title: "GET-data-hub"
+---
+
+This is the central resource for updates to the IUCN Global Ecosystem Typology (GET).
+
+This site contains information about the [governance](governance.qmd) of the IUCN GET, the [nomination process](nomination.qmd) for proposed updates, the [register of proposed updates](register.qmd) and their implementation.
+

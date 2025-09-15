@@ -1,0 +1,7 @@
+_site
+.quarto
+.DS_Store
+npm-debug.log
+.idea
+.firebase
+firebase-debug.log

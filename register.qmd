@@ -1,0 +1,11 @@
+---
+title: "Public register of proposed adjustments and outcomes"
+listing:
+  contents: register
+  categories: true
+  type: table
+  fields: [title, date, Type, Nomination, Decision, Implementation, Publication]
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---

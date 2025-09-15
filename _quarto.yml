@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "GET-data-hub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: governance.qmd
+        text: Governance
+      - href: nomination.qmd
+        text: Nomination process
+      - href: register.qmd
+        text: Public Register
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

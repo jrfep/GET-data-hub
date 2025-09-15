@@ -1,0 +1,16 @@
+---
+title: "Rename T7.3"
+date: last-modified
+Type: "Rename"
+Nomination: 23 Jun 2025
+Decision: pending
+categories: 
+    - T7.3
+    - Rename
+    - Formal nomination
+---
+
+
+## Current status
+
+Formal nomination, proposal prepared for GET-SC consideration
