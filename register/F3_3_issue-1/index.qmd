@@ -3,7 +3,7 @@ title: "Rename F3.3 Aquatic and semi-aquatic croplands"
 date: last-modified
 Type: "Rename"
 Nomination: 23 Jun 2025
-Decision: 9 Sep 2025
+Decision: 8 Sep 2025
 Implementation: public consultation
 categories: 
     - F3.3
@@ -15,16 +15,17 @@ categories:
 :::{.callout-note}
 ## Proposed revision
 
-The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is Rice paddies. However, the description of the ecosystem functional group accommodates a broader range of crops than just rice, and dry rice croplands fall within T7.1. We thus note the potential alternative name Aquatic and semi-aquatic croplands.
+The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is *Rice paddies*. However, the description of the ecosystem functional group accommodates a broader range of crops than just rice, and dry rice croplands fall within T7.1. We thus note the potential alternative name *Aquatic and semi-aquatic croplands*.
 
-
-***Revision summary***: Rename F3.3 Aquatic and semi-aquatic croplands 
+***Revision summary***: Rename *F3.3 Aquatic and semi-aquatic croplands* 
 
 ***Origin***: Agricultural ecosystems WG (Driver & Botts 2025)
 
 ***Justification***: Accommodate aquatic crops other than rice
 
-***Current status***: Proposal considered by GET-SC on 8/9/2025 and approved  for public consultation on draft update
+***Current status***: Proposal considered by GET-SC on 8/9/2025 and approved  for public consultation on draft update.
+
+See new profile text below, compare to current text at [global-ecosystems.org (opens in new tab)](https://global-ecosystems.org/explore/groups/F3.3){target=blank}
 
 ::: 
 
@@ -94,3 +95,8 @@ Fernando CJH (1993) Rice field ecology and fish culture---an overview.
 
 Liesack W, Schnell S, Revsbech NP (2000) Microbiology of flooded rice
 paddies. *FEMS Microbiology Reviews* 24: 625-645
+
+
+## Public consultation
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o5MI4sLPZtBBnmqBEb5y9ApUN0NTRDBMU1lYVFhNUDhNMThIQVRJQzJDOC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

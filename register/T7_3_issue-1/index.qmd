@@ -1,0 +1,106 @@
+---
+title: "Rename T7.3 Plantations and woody croplands"
+date: last-modified
+Type: "Rename"
+Nomination: 23 Jun 2025
+Decision: 8 Sep 2025
+Implementation: public consultation
+categories: 
+    - T7.3
+    - Rename
+    - Public consultation
+---
+
+:::{.callout-note}
+
+The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is Plantations. However, based on the description it is clearly intended to include woody croplands as well as plantations. We thus note the potential alternative name Plantations and woody croplands.
+
+***Revision summary***: T7.3 Rename and resolve conflation between plantations and perennial crops
+
+***Origin***: Review of agricultural and plantation forestry ecosystems in the GET, engaging the Agricultural ecosystems ad hoc working
+group (Driver and Botts 2025).
+
+***Justification***: Resolve confusion between plantations for wood and perennial food crops produced by woody plants. Need to define the ecological similarities, i.e. beyond use of of the product (wood, fibre, biofuel, food), may require associated ajustments to text
+
+***Current status***: Proposal considered by GET-SC on 8 Sep 2025 and approved  for public consultation on draft update
+
+See new profile text below, compare to current text at [global-ecosystems.org (opens in new tab)](https://global-ecosystems.org/explore/groups/T7.3){target=blank}
+::: 
+
+
+## T7.3 Plantations [and woody croplands]{.mark}
+
+***Ecosystem properties***: These moderate
+to high productivity autotrophic systems are established by the
+translocation (i.e. planting or seeding) of woody perennial plants[, or
+very rarely non-woody (e.g. bananas)]{.mark}. Target biota may be
+genetically manipulated by selective breeding or molecular engineering
+to promote rapid growth rates, efficient resource capture, enhanced
+resource allocation to production tissues, and tolerance of harsh
+environmental conditions, insect predators, and diseases. The diversity,
+structure, composition, function, and successional trajectory of the
+ecosystem depends on the identity, developmental stage, density, and
+traits (e.g. phenology, physiognomy, and growth rates) of planted
+species, as well as the subsequent management of plantation development.
+Most plantations comprise at least two vertical strata (the managed
+woody species and a ruderal ground layer). Mixed forest plantings may be
+more complex and host a relatively diverse flora and fauna if managed to
+promote habitat features. Cyclical harvest may render the habitat
+periodically unsuitable for some biota. Mixed cropping systems may
+comprise two vertical strata of woody crops or a woody and herbaceous
+layer. Secondary successional processes involve colonisation and
+regeneration, initially of opportunistic biota. Successional feedbacks
+occur as structural complexity increases, promoting visits or
+colonisation by vertebrates and the associated dispersal of plants and
+other organisms. Crop replacement (which may occur on
+[multi-]{.mark}annual or decadal cycles), the intensive management of
+plantation structure, or the control of non-target species may reset,
+arrest, or redirect successional processes. Examples with increasing
+management intervention include: environmental plantations established
+for wildlife or ecosystem services; agroforestry plantings for
+subsistence products or livestock benefits; forestry plantations for
+timber, pulp, fibre, bio-energy, rubber, or oils; and vineyards,
+orchards, and other perennial food crops (e.g. cassava, coffee, tea,
+palm oil, and nuts). Secondary (regrowth) forests and shrublands are not
+included as plantations even where management includes supplementary
+translocations.
+
+
+![Harvesting in tea plantations, Nuwara Eliya, Sri Lanka.  Credit: Tunart /Getty Images
+](./media/media/image1.jpeg){width="3.6319444444444446in"
+height="2.4208333333333334in"}
+
+![Diagrammatic assembly model](./media/media/image2.png){width="3.941666666666667in"
+height="2.7708333333333335in"}
+
+***Ecological drivers***: High to moderate
+natural availability of water and nutrients is supplemented by human
+inputs of fertiliser or mulch, landscape drainage modifications (e.g.
+surface earthworks), and, in intensively managed systems, irrigation.
+Rainfall is at least seasonally high. Temperatures are mild to warm, at
+least seasonally. Artificial disturbance regimes involving the complete
+or partial removal of biomass and soil turnover are implemented at
+sub-decadal to multi-decadal frequencies.
+
+![](./media/media/image3.png){width="4.855555555555555in"
+height="2.4277777777777776in"}
+
+***Distribution***: Tropical to cool
+temperate humid climatic zones or river flats in dry climates across
+south sub-Saharan and Mediterranean Africa, Europe, Asia, southern
+Australia, Oceania, and the Americas.
+
+### References
+
+Kanninen M (2010) Plantation forests: global perspectives. *Ecosystem
+goods and services from plantation forests* (Eds. J Bauhus, PJ van der
+Meer, M Kanninen), pp1-15. Earthscan, London.
+
+Monfreda CN, Ramankutty N, Foley JA (2008) Farming the planet: 2.
+Geographic distribution of crop areas, yields, physiological types, and
+net primary production in the year 2000*.* Global Biogeochemical Cycles
+22: GB1022.
+
+## Public consultation
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o5MI4sLPZtBBnmqBEb5y9ApUQlQwQVcyQjU2QThTMEROSldINkpTWE5aNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

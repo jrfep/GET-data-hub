@@ -3,7 +3,7 @@ title: "Rename T7.1 Short-rotation croplands"
 date: last-modified
 Type: "Rename"
 Nomination: 23 Jun 2025
-Decision: 9 Sep 2025
+Decision: 8 Sep 2025
 Implementation: public consultation
 categories: 
     - T7.1
@@ -21,7 +21,9 @@ The name of this ecosystem functional group in version 2.1 of the Global Ecosyst
 
 ***Justification***: Some intensive croplands are turned over on longer than annual cycles (e.g. biennial crops or in climates with interannually variable rainfall) but share many features with annual croplands
 
-***Current status***: Formal nomination, proposal prepared for GET-SC consideration. Recommendation from GET-SC: approve and send for public consultation.
+***Current status***: Proposal considered by GET-SC on 8/9/2025 and approved  for public consultation on draft update
+
+See new profile text below, compare to current text at [global-ecosystems.org (opens in new tab)](https://global-ecosystems.org/explore/groups/T7.1){target=blank}
 
 ::: 
 
@@ -106,4 +108,4 @@ recent trends and future directions. *Environmental Research Letters*
 
 ## Public consultation
 
-<iframe width="640px" height="480px" src="https://forms.office.com/r/jbLu4ywAg1?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o5MI4sLPZtBBnmqBEb5y9ApUOUhBRzMzUFNROUNJVk1XUEZZTldVNUYyTS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

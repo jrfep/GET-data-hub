@@ -4,8 +4,9 @@ listing:
   contents: register
   categories: true
   type: table
-  fields: [title, date, Type, Nomination, Decision, Implementation, Publication]
+  fields: [title,  Nomination, Decision, Implementation, Publication]
   sort-ui: true
+  sort: [Nomination desc, Decision desc]
   filter-ui: true
 page-layout: full
 ---
