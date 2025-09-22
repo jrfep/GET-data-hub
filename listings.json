@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/register/F3_3_issue-1/index.html",
+      "/register/T7_1_issue-1/index.html",
+      "/register/T7_2_issue-1/index.html",
+      "/register/T7_3_issue-1/index.html"
+    ]
+  },
+  {
+    "listing": "/register.html",
+    "items": [
+      "/register/T7_1_issue-1/index.html",
+      "/register/T7_3_issue-1/index.html",
+      "/register/F3_3_issue-1/index.html",
+      "/register/T7_2_issue-1/index.html"
+    ]
+  }
+]
